@@ -39,6 +39,14 @@ body {
     right: 4rem;
     z-index: 1;
 }
+
+.scroll-top_main {
+    position: absolute;
+    top: 120vh;
+    bottom: 3rem;
+    right: 3rem;
+    z-index: 1;
+}
   
 .scroll-top__link {
     position: -webkit-sticky;
