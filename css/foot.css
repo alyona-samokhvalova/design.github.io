@@ -104,6 +104,12 @@
     }
 }
 
+@media (max-width:1080px) {
+    .end_foot_text {
+        font-size: 1.3rem;
+    }
+}
+
 @media (max-width:1024px) {
     .link_foot {
         font-size: 2rem;
@@ -120,9 +126,6 @@
     .svg_messenger {
         width: 60px;
         height: 60px;
-    }
-    .end_foot_text {
-        font-size: 1.5rem;
     }
 }
 
