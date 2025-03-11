@@ -170,6 +170,9 @@ input::-webkit-inner-spin-button {
     .contacts_messengers {
         max-width: 50%;
     }
+    
+    .title_contacts {
+    font-size: 1.7rem;
 }
 
 
