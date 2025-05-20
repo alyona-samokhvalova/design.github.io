@@ -102,7 +102,7 @@
 
 .card_portfolio:hover {
     transition: .3s;
-    box-shadow: inset 1em 1em rgb(255, 68, 124);
+    opacity: 70%;
 }
 
 .pic_portfolio {
