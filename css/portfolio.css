@@ -100,11 +100,6 @@
     position: relative;
 }
 
-.card_portfolio:hover {
-    transition: .3s;
-    opacity: 70%;
-}
-
 .pic_portfolio {
     width: 100%;
     height: 100%;
