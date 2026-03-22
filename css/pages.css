@@ -83,7 +83,7 @@
         right: 3rem;
     }
     .video_vert {
-    width: 90%;
+        width: 90%;
     }
 }
 
@@ -95,7 +95,7 @@
         right: 2rem;
     }
     .video_vert {
-    width: 80%;
+        width: 80%;
     }
 }
 
@@ -111,6 +111,6 @@
         height: 60px;
     }
     .video_vert {
-    width: 100%;
+        width: 100%;
     }
 }
