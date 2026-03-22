@@ -70,11 +70,6 @@
     gap: 32px;
 }
 
-.video_vert {
-    width: 50%;
-    height: auto;
-    max-height: 100%;
-}
 /* =============================================== */
 
 @media (max-width:1680px) {
@@ -84,9 +79,6 @@
     .scroll-top {
         right: 3rem;
     }
-    .video_vert {
-        width: 90%;
-    }
 }
 
 @media (max-width:1440px) {
@@ -95,9 +87,6 @@
     }
     .scroll-top {
         right: 2rem;
-    }
-    .video_vert {
-        width: 80%;
     }
 }
 
@@ -111,8 +100,5 @@
     .svg_arrow_back {
         width: 60px;
         height: 60px;
-    }
-    .video_vert {
-        width: 100%;
     }
 }
