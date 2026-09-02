@@ -79,11 +79,11 @@
 }
   
 .tab-wrapper input:checked + label {
-    color: #FF447C;
+    color: #946ACC;
 }
 
 .tab-wrapper input:hover + label {
-    color: #FF447C;
+    color: #946ACC;
 }
 
 .tab-wrapper input:checked + label + .tab-item {
