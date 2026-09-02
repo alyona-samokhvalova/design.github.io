@@ -76,7 +76,7 @@
     font-family: 'mulish-300';
     font-weight: 300;
     font-size: 2rem;
-    color: #FF447C;
+    color: #946ACC;
     text-decoration: none;
 }
 
@@ -105,7 +105,7 @@ label {
 
 .input {
     background: none;
-    border-bottom: 1px solid #FF447C;
+    border-bottom: 1px solid #946ACC;
     border-left: none;
     border-top: none;
     border-right: none;
