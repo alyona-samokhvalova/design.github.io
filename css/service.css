@@ -82,7 +82,7 @@
     font-family: 'mulish-100';
     font-weight: 100;
     font-size: 1.4rem;
-    color: #FF447C;
+    color: #946ACC;
     text-transform: uppercase;
 }
 
@@ -133,8 +133,8 @@
 }
 
 .btn_2:hover {
-    color: #FF447C;
-    border: 1px solid #FF447C;
+    color: #946ACC;
+    border: 1px solid #946ACC;
     transition: .3s;
 }
 
